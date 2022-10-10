@@ -1,8 +1,8 @@
 
- <h3 align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=slice&color=BFEFFF&height=200&section=header&text=Hello%20World!&fontSize=50)
 
- #### **📚 Studying 📚** 
+ <h3 align="center"> #### **📚 Studying 📚**  </h3>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/JAVA-F7DF1E?style=flat&logo=JAVA&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
@@ -16,4 +16,4 @@
 
 
 
- </h3>
+
