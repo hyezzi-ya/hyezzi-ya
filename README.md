@@ -24,11 +24,12 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
  </div>
 
-
-
-
-
-#####  <h3 align="center"> My GitHub Stats </h3>
+<br>
+<br>
+<br>
+<br>
+<br>
+#####  <h3 align="center">📍 My GitHub Stats 📍</h3>
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyezzi-ya&theme=gruvbox&show_icons=true)
