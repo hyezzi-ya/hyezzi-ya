@@ -1,15 +1,19 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=BFEFFF&height=300&section=header&text=Hello%20World!&fontSize=50)
+<br>
+<br>
 
 ###### <h3 align="center"> 안녕하세요 🙌 </h3>
 ###### <h3 align="center"> 제 이름은 김혜진입니다. 소프트웨어의 전반적인 내용을 배우고 있습니다!</h3>
 ###### <h3 align="center"> 현재 대학교에 재학중이며 무엇이든 빠르게 배우는 편입니다 </h3>
 ###### <h3 align="center">  </h3>
 
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 #####  <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
