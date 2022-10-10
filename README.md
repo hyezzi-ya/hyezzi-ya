@@ -4,9 +4,9 @@
 <br>
 <br>
 
-###### <h3 align="center"> 안녕하세요 🙌 </h3>
-###### <h3 align="center"> 제 이름은 김혜진입니다. 소프트웨어의 전반적인 내용을 배우고 있습니다!</h3>
-###### <h3 align="center"> 현재 대학교에 재학중이며 무엇이든 빠르게 배우는 편입니다 </h3>
+###### <h3 align="center"> 안녕하세요 :) </h3>
+###### <h3 align="center"> 제 이름은 김혜진입니다. 현재 대학교에 재학중이며, 소프트웨어응용을 배우고 있습니다!</h3>
+###### <h3 align="center"> 책임감이 강하며 무엇이든 빠르게 배우는 편입니다 </h3>
 ###### <h3 align="center">  </h3>
 
 <br>
@@ -29,7 +29,7 @@
 <br>
 <br>
 <br>
-#####  <h3 align="center">📍 My GitHub Stats 📍</h3>
+#####  <h3 align="center"> 🖥️ My GitHub Stats 🖥️ </h3>
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyezzi-ya&theme=gruvbox&show_icons=true)
