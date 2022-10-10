@@ -1,6 +1,7 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=BFEFFF&height=300&section=header&text=Hello%20World!&fontSize=50)
+
 <br>
 <br>
 
@@ -23,6 +24,7 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=white"/></a>
 
  </div>
 
