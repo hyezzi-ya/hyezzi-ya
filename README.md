@@ -6,7 +6,7 @@
 <br>
 
 ###### <h3 align="center"> 안녕하세요 :) </h3>
-###### <h3 align="center"> 무엇이든 빠르게 배우는 주니어개발자 김혜진 입니다!</h3>
+###### <h3 align="center"> 백엔드 주니어 개발자 김혜진 입니다!</h3>
 ###### <h3 align="center"> 책임감이 강하며 무엇이든 빠르게 배우는 편입니다 </h3>
 ###### <h3 align="center">  </h3>
 
@@ -37,7 +37,6 @@
  <h3 align="center"> 🖥️ My GitHub Stats 🖥️ </h3>
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyezzi-ya&theme=gruvbox&show_icons=true)
 
 </div>
 
